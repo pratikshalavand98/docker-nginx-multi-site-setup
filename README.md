@@ -137,3 +137,6 @@ Multiple applications hosted on a single Ubuntu server
 **Pratiksha Lavand**
 
 Aspiring Cloud & DevOps Engineer
+
+<img width="1536" height="1024" alt="Docker deployment on AWS EC2" src="https://github.com/user-attachments/assets/37d3c5d6-38fa-4743-8a6e-e49181b3d6d6" />
+<img width="1919" height="739" alt="Screenshot 2026-03-22 162129" src="https://github.com/user-attachments/assets/20e3a37a-0272-4a72-a003-fdd6cd420dbc" />
