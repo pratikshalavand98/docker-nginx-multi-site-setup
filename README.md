@@ -132,7 +132,7 @@ Each container serves custom content
 
 Multiple applications hosted on a single Ubuntu server
 
-👩‍💻 Author
+#### **👩‍💻 Author**
 
-Pratiksha Lavand
+**Pratiksha Lavand**__
 Aspiring Cloud & DevOps Engineer
