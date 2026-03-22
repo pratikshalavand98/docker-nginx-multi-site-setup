@@ -140,3 +140,10 @@ Aspiring Cloud & DevOps Engineer
 
 <img width="1536" height="1024" alt="Docker deployment on AWS EC2" src="https://github.com/user-attachments/assets/37d3c5d6-38fa-4743-8a6e-e49181b3d6d6" />
 <img width="1919" height="739" alt="Screenshot 2026-03-22 162129" src="https://github.com/user-attachments/assets/20e3a37a-0272-4a72-a003-fdd6cd420dbc" />
+<img width="1919" height="871" alt="Screenshot 2026-03-22 162220" src="https://github.com/user-attachments/assets/eddc6346-a5ab-4d1b-b5f7-6967b8bf4dd6" />
+<img width="1919" height="968" alt="Screenshot 2026-03-22 163611" src="https://github.com/user-attachments/assets/826b7cc3-fd59-4385-b9b3-e158fdcb116d" />
+<img width="1918" height="961" alt="Screenshot 2026-03-22 164037" src="https://github.com/user-attachments/assets/b7925a6b-f636-4fed-ac82-0b1aeeb71391" />
+<img width="1919" height="897" alt="Screenshot 2026-03-22 164101" src="https://github.com/user-attachments/assets/e04b308f-df4e-4bdf-b4ac-e9e9656b2eb8" />
+<img width="1919" height="911" alt="Screenshot 2026-03-22 164114" src="https://github.com/user-attachments/assets/7814caf8-ca6b-4709-a212-543b21c3e67a" />
+<img width="1919" height="912" alt="Screenshot 2026-03-22 164140" src="https://github.com/user-attachments/assets/80ed6340-008e-4202-b3ad-b397e84f9854" />
+
