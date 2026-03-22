@@ -50,12 +50,15 @@ docker pull nginx
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
 ```
-🔹 AWS Website
+#### **🔹 AWS Website**
+```bash
+cd /usr/share/nginx/html/
+echo "Welcome Amazon Web Services(AWS)" > index.html
 ```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
 ```
-####🔹 Learn DevOps Website
+####**🔹 Learn DevOps Website**
 ```bash
 cd /usr/share/nginx/html/
 echo "Hello This is my Learn-devops page" > index.html
@@ -102,20 +105,31 @@ server {
 ```
     
 🌐 Application Access
+
 http://<Server-IP> → Pratiksha Website
+
 http://<Server-IP>:90 → AWS Website
+
 http://<Server-IP>:8080 → Learn DevOps Website
 
 🛠️ Key Concepts Used
+
 Docker container deployment
+
 Port mapping
+
 Volume mounting
+
 Nginx configuration
+
 Linux command-line operations
 
 📊 Outcome
+
 Successfully deployed 3 independent websites
+
 Each container serves custom content
+
 Multiple applications hosted on a single Ubuntu server
 
 👩‍💻 Author
