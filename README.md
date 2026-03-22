@@ -134,5 +134,6 @@ Multiple applications hosted on a single Ubuntu server
 
 #### **👩‍💻 Author**
 
-**Pratiksha Lavand**__
+**Pratiksha Lavand**
+
 Aspiring Cloud & DevOps Engineer
