@@ -46,27 +46,27 @@ docker pull nginx
 ### 5. Create Website Content
 
 #### 🔹 Pratiksha Website
-
+```bash
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
-  ```
+```
 🔹 AWS Website
-    ```bash
+```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
-     ```
+```
 ####🔹 Learn DevOps Website
-    ```bash
+```bash
 cd /usr/share/nginx/html/
 echo "Hello This is my Learn-devops page" > index.html
-     ```
+```
 6. Modify Nginx Configuration
-    ```bash
+```bash
 cd /etc/nginx/conf.d/
 nano default.conf
-     ```
+```
 📄 default.conf (Final Config)
-    ```bash
+```bash
     # Pratiksha Website
 server {
     listen 80;
@@ -99,7 +99,7 @@ server {
         index index.html;
     }
 }
-    ```
+```
     
 🌐 Application Access
 http://<Server-IP> → Pratiksha Website
