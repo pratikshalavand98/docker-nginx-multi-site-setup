@@ -46,11 +46,11 @@ docker pull nginx
 ### 5. Create Website Content
 
 #### 🔹 Pratiksha Website
-```bash
+
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
-     ```
-####🔹 AWS Website
+  ```
+🔹 AWS Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
