@@ -44,17 +44,17 @@ docker pull nginx
     docker exec -it learn-devops.com bash
      ```
 5. Create Website Content
-Pratiksha Website
+1.Pratiksha Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
      ```
-AWS Website
+2. AWS Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
      ```
-Learn DevOps Website
+3.Learn DevOps Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Hello This is my Learn-devops page" > index.html
