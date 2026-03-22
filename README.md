@@ -43,9 +43,10 @@ docker pull nginx
     docker exec -it aws.com bash
     docker exec -it learn-devops.com bash
      ```
-5. Create Website Content
-🔹 Pratiksha Website
-    ```bash
+### 5. Create Website Content
+
+#### 🔹 Pratiksha Website
+```bash
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
      ```
