@@ -44,17 +44,17 @@ docker pull nginx
     docker exec -it learn-devops.com bash
      ```
 5. Create Website Content
-1.Pratiksha Website
+🔹 Pratiksha Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
      ```
-2. AWS Website
+🔹 AWS Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
      ```
-3.Learn DevOps Website
+🔹 Learn DevOps Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Hello This is my Learn-devops page" > index.html
@@ -64,7 +64,7 @@ echo "Hello This is my Learn-devops page" > index.html
 cd /etc/nginx/conf.d/
 nano default.conf
      ```
-✅ 📄 default.conf (Final Config)
+📄 default.conf (Final Config)
     ```bash
     # Pratiksha Website
 server {
