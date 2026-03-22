@@ -50,12 +50,12 @@ docker pull nginx
 cd /usr/share/nginx/html/
 echo "Hello I am Pratiksha lavand" > index.html
      ```
-🔹 AWS Website
+####🔹 AWS Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Welcome Amazon Web Services(AWS)" > index.html
      ```
-🔹 Learn DevOps Website
+####🔹 Learn DevOps Website
     ```bash
 cd /usr/share/nginx/html/
 echo "Hello This is my Learn-devops page" > index.html
